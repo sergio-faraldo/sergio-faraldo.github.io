@@ -34,8 +34,8 @@ body {
 	line-height: 1;
 }
 
-li.cred {
-	height: 150px;
+nav li.cred {
+	height: 150px !important;
 }
 
 ol, ul {
