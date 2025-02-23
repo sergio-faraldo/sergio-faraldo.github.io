@@ -37,6 +37,8 @@ body {
 nav li.cred {
 	height: 150px !important;
 	width: auto !important;
+	margin-left: 30px;
+    margin-right: 30px;
 }
 
 ol, ul {
